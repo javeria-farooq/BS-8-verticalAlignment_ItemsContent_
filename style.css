@@ -1,0 +1,38 @@
+.container{
+    border: 2px solid black;
+}
+
+.row{
+    border: 2px solid red;
+    height: 800px;
+}
+
+
+
+
+
+
+.pink{
+    background-color: pink;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.magenta{
+    background-color: magenta;
+}
+
+.orange{
+    background-color: orange;
+}
+
